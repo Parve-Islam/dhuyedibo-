@@ -107,10 +107,10 @@ export default function AdminDashboard() {
                   Manage Laundry Shops
                 </Link>
                 <Link 
-                  href="/admin/logs" 
+                  href="/admin/appointments" 
                   className="p-4 bg-white border border-gray-200 rounded shadow-sm hover:shadow-md transition-shadow text-center"
                 >
-                  View Logs
+                  Appointments
                 </Link>
               </div>
             </div>
